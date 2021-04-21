@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Jatin\source\repos\PBullCow\PBullCow\main.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PBullCow.vcxproj -> C:\Users\Jatin\source\repos\PBullCow\Debug\BullCowGame.exe
